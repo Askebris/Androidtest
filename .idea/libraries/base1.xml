@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="base1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/AFSProject/app/build/intermediates/merged_java_res/release/base.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

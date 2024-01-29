@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UECommandLine.txt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/app/build/intermediates/compressed_assets/release/out/assets/UECommandLine.txt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Build/Build.iml" filepath="$PROJECT_DIR$/Build/Build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/app/build/generated/aidl_source_output_dir/aidl_source_output_dir.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/app/build/generated/aidl_source_output_dir/aidl_source_output_dir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/app/build/generated/ap_generated_sources/ap_generated_sources.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/app/build/generated/ap_generated_sources/ap_generated_sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/AFSProject/app/build/generated/ap_generated_sources/ap_generated_sources1.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/AFSProject/app/build/generated/ap_generated_sources/ap_generated_sources1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/AFSProject/app/src/app.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/AFSProject/app/src/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/app/src/app1.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/app/src/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/arm64.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/arm64.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/permission_library/build/build.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/permission_library/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/downloader_library/build/build1.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/downloader_library/build/build1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/downloader_library/src/downloader_library.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/downloader_library/src/downloader_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/JavaLibs/downloader_library/downloader_library1.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/JavaLibs/downloader_library/downloader_library1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/AFSProject/app/build/generated/source/generated.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/AFSProject/app/build/generated/source/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/app/build/generated/source/generated1.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/app/build/generated/source/generated1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/JavaLibs/permission_library/permission_library.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/JavaLibs/permission_library/permission_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/permission_library/src/permission_library1.iml" filepath="$PROJECT_DIR$/Intermediate/Android/arm64/gradle/permission_library/src/permission_library1.iml" />
+    </modules>
+  </component>
+</project>

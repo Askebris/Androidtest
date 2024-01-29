@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shrunkJavaRes1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Intermediate/Android/arm64/gradle/app/build/intermediates/shrunk_java_res/release/shrunkJavaRes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
